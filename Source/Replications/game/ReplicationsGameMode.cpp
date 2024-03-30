@@ -1,7 +1,7 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
 #include "ReplicationsGameMode.h"
-#include "ReplicationsCharacter.h"
+#include "Replications/entities/player//ReplicationsCharacter.h"
 #include "UObject/ConstructorHelpers.h"
 
 AReplicationsGameMode::AReplicationsGameMode()
